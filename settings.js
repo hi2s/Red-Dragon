@@ -12,13 +12,13 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+🤷‍♀️How can I help you?😉(මං ඔයාගේ දිහා බලන් ඉන්නෙ අලේ🤭❤️)` //Costomize Alive Message (type your message in `` )
 
 
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -29,8 +29,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94772578848'] // owner number
+global.ownername = "😎𝙄.𝙋𝙖𝙗𝙖𝙨𝙖𝙧𝙖 😏🌸❤️❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -38,25 +38,25 @@ global.location = "India, Mizoram, Aizawl" // location
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
+global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "false" // To remove bad word senders
+global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
-global.antilink = "false" // To remove group link sharing peoples
-global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
+global.antilink = "true" // To remove group link sharing peoples
+global.upsongvoice = "true" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+94772578848']
+global.ownertag = '+94772578848' //your tag number
+global.botname = 'ᴘᴀʙᴀsᴀʀᴀ-ʙᴏᴛ❤️🌸 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "ᴘᴀʙᴀsᴀʀᴀ-ʙᴏᴛ❤️🌸" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ ◉ ᴘᴀʙᴀsᴀʀᴀ-ʙᴏᴛ❤️🌸-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94772578848'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
@@ -65,21 +65,21 @@ global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,
 global.sp = '💠'
 global.mess = {
     success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
+    admin: 'ඇඩ්මින් තියෙන උදවියට විතරයි මේක පාවිච්චි කරන්න පුලුවන්😚❤️',
+    botAdmin: 'මට ඇඩ්මින් දීපිය නැත්තම් බෑහ් හුම්👻🧸🙈',
     owner: 'Only Owner can use this!😉',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: '👉👈චුට්ටක් ඉන්න සූකිරි බෝලේ 😘❤️💦',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     linkm: 'Where is the link?',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban',
-    badwords: '*🚫Bad Words Not Allowed Here !*\n\n⚠️ Warning... ⚠️',
+    badwords: 'මෙතන ඉන්නවනම් නරක වචන කියන්න බෑ ..........⚠️අවවාදයක් 🙄😒💔 ⚠️',
     spam: '⚠️ [SPAM] Detected ⚠️\n\nThe emergency security system was activated.\n\nPowered By: *ʀᴇᴅ-ᴅʀᴀɢᴏɴ*',
-    caption: 'Generated by: ◉ *ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ʙᴏᴛ*'
+    caption: 'Generated by: ◉ *සූᴋɪරී ＰＡබා 😘❤️'
 } // END \\
     global.limitawal = {
     premium: "Infinity",
